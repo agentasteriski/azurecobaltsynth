@@ -32,7 +32,7 @@ Available in hubert_soft, content_vec, and hifisinger.
 - Type: Fish-SVC
 
 ## Videos
-[![Watch the video](https://i.ytimg.com/an_webp/OVD4vuv8y_c/mqdefault_6s.webp)](https://youtu.be/OVD4vuv8y_c)
+[![Watch the video](https://github.com/user-attachments/assets/f4106037-2432-4b4b-a005-940ffbcb3fd4)](https://youtu.be/OVD4vuv8y_c)
 [![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
 [![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/StlZnXhwnk4)
 [![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
