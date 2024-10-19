@@ -33,5 +33,4 @@ Available in hubert_soft, content_vec, and hifisinger.
 ## Videos
 [![Watch the video](https://github.com/user-attachments/assets/9046d946-03e4-42d2-a6cb-953b80411bfb)](https://youtu.be/OVD4vuv8y_c)
 [![Watch the video](https://github.com/user-attachments/assets/a2d69a19-77c2-4d31-a70d-3021afc03485)](https://youtu.be/5g9Zjj8rcLU)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/StlZnXhwnk4)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
+[![Watch the video](https://github.com/user-attachments/assets/fb6c2164-c4b2-403b-b52b-59779b1ac2a9)](https://youtu.be/w_V1nXRunXY)
