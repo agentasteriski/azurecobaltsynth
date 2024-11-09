@@ -2,7 +2,7 @@
 # Azure Cobalt
 [English](README.md)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A bright, feminine-to-androgynous alto voice with the range to excel in a variety of styles.
 
 ## General information
 - Gender: female
@@ -17,9 +17,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## Azure Cobalt Δ
-Test description 1
+Six vocal modes create a versatile model with a wide range. See specific release for details.
 - Type: Diffsinger
-- Languages: Japanese, English, Mandarin, French, Spanish
+- Languages: Japanese, English, French, Spanish, Mandarin(0.4FLT only)
 
 ## Azure Cobalt -10th Anniversary Edition-
 7-mora VCV in C4 and F4.
