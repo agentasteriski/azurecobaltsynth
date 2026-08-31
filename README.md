@@ -19,7 +19,7 @@ A bright, feminine-to-androgynous alto voice with the range to excel in a variet
 ## Azure Cobalt Δ
 Six vocal modes create a versatile model with a wide range. See specific release for details.
 - Type: Diffsinger
-- Languages: Japanese, English, French, Spanish, Mandarin(0.4MD-FLT only)
+- Languages: Japanese, English, Mandarin Chinese(ACV-type phonemes), Korean
 
 ## UTAU Azure Cobalt
 10th Anniversary Edition: 7-mora VCV in C4 and F4.
